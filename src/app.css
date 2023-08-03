@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url("https://1.bp.blogspot.com/-4vf9OVikxC8/XFUltIbso7I/AAAAAAAABz0/JVXPiIhLnbA3tfwA29H1pqJlbXvX39fEwCKgBGAs/w0/snow-mountainer-night-sky-stars-scenery-31-4K.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'EB Garamond', serif;
+    background-color: rgb(9,28,41);
+
+}
